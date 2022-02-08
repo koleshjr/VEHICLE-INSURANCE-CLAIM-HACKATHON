@@ -1,4 +1,5 @@
 # VEHICLE-INSURANCE-CLAIM-HACKATHON
+https://zindi.africa/competitions/vehicle-insurance-claim-hackathon
 
 When providing insurance, there are very few points of contact between customers and the insurance provider. Because of this, AutoInland (an Insurance company in west Africa with a focus on Auto Insurance) needs to make every point of contact count; one of the most valuable of these is filing and settlement of claims.
 
